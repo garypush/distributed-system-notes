@@ -1,1 +1,1 @@
-# distributed-system-notes
+# 6.824 Distributed Systems Notes
